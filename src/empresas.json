@@ -1,0 +1,62 @@
+[
+    {
+      "id":1,
+       "empresa": "MUUK",
+      "descripcion":"Lugar de expresión para artes diversas, como punto de reunión. "
+    },
+      {
+      "id":2,
+       "empresa": "LA ESQUINA DE HELICON ",
+      "descripcion":"Lugar de expresión para artes diversas, como punto de reunión. "
+    },
+      {
+      "id":3,
+       "empresa": "PLUMONES KRAKEN",
+      "descripcion":"Reutilización de Plumones"
+    },
+      {
+      "id":4,
+       "empresa": "BIOPLÁSTICO",
+      "descripcion":"Bioplástico Con Residuos de Limón "
+    },
+      {
+      "id":5,
+       "empresa": "ELSA TECHNOLOGY",
+      "descripcion":" Empresa de soluciones tecnológicas"
+    },
+      {
+      "id":6,
+       "empresa": "HAMBRU",
+      "descripcion":"Elaboración de bolsas a mano tipo pañaleras"
+    },
+      {
+      "id":7,
+       "empresa": "KAENDA",
+      "descripcion":"Botanas  a base de coco horneado "
+    },
+      {
+      "id": 8,
+       "empresa": "MIKE WINTER",
+      "descripcion":"Elaboración de figuras a base de moldeado artesanal, donde puedes personalizar tu idea"
+    },
+        {
+      "id": 9,
+       "empresa": "UNLIMITED",
+      "descripcion":"Agencia de viajes "
+    },
+        {
+      "id": 10,
+       "empresa": "STAFF",
+      "descripcion":"Staff para eventos con universitarios "
+    },
+        {
+      "id": 11,
+       "empresa": "Doggy Go",
+      "descripcion":"Ecommerce de productos para mascotas "
+    },
+        {
+      "id": 12,
+       "empresa": "Lactancia Materna",
+      "descripcion":"Empresa de capacitaciones especializadas "
+    }
+  ]
